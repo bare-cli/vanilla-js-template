@@ -1,0 +1,15 @@
+{
+	"Author" : "madrix01",
+	"Barename" : "vanilla-js",
+	"Version" : "0.0.1",
+	"Variants" : [
+		"hw"
+	],
+	"Variables" : {
+		"hw" : {
+			"AppName" : "hw",
+			"Var1" : "Var1",
+			"Var2" : "Var2"
+		}
+	}
+}
