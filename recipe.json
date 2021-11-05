@@ -2,7 +2,7 @@
   "Author": "madrix01",
   "Barename": "vanilla-js",
   "Version": "0.0.1",
-  "Variants": ["hw"],
+  "Variants": ["hw", "ab", "cd", "ef"],
   "Variables": {
     "AppName": "hw",
     "Var1": "Var1",
