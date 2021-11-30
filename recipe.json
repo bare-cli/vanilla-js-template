@@ -3,7 +3,7 @@
   "Barename": "vanilla-js",
   "Version": "0.0.1",
   "Variants": ["hw", "ab", "cd", "ef"],
-  "Variables": {
+  "Placeholder": {
     "AppName": "hw",
     "title": "bareijworking",
     "var1" : "abcd"
