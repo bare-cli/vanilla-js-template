@@ -4,8 +4,8 @@
   "Version": "0.0.1",
   "Variants": ["hw", "ab", "cd", "ef"],
   "Placeholders": {
-    "AppName": "hw",
-    "title": "bareijworking",
-    "var1" : "abcd"
+    "AppName": ["hw", "Name of the app"],
+    "title": ["bareijworking", "Name of the title"],
+    "var1" : ["abcd", "Name of the variable"]
   }
 }
